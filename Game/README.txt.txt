@@ -1,0 +1,1 @@
+This program is written to target the .net 6.0 sdk. You can change this in the "ProgChallengeStart" file.
